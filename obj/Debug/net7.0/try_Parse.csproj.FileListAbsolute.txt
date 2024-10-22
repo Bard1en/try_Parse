@@ -1,0 +1,14 @@
+C:\GitHub\arv\try_Parse\bin\Debug\net7.0\try_Parse.exe
+C:\GitHub\arv\try_Parse\bin\Debug\net7.0\try_Parse.deps.json
+C:\GitHub\arv\try_Parse\bin\Debug\net7.0\try_Parse.runtimeconfig.json
+C:\GitHub\arv\try_Parse\bin\Debug\net7.0\try_Parse.dll
+C:\GitHub\arv\try_Parse\bin\Debug\net7.0\try_Parse.pdb
+C:\GitHub\arv\try_Parse\obj\Debug\net7.0\try_Parse.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\arv\try_Parse\obj\Debug\net7.0\try_Parse.AssemblyInfoInputs.cache
+C:\GitHub\arv\try_Parse\obj\Debug\net7.0\try_Parse.AssemblyInfo.cs
+C:\GitHub\arv\try_Parse\obj\Debug\net7.0\try_Parse.csproj.CoreCompileInputs.cache
+C:\GitHub\arv\try_Parse\obj\Debug\net7.0\try_Parse.dll
+C:\GitHub\arv\try_Parse\obj\Debug\net7.0\refint\try_Parse.dll
+C:\GitHub\arv\try_Parse\obj\Debug\net7.0\try_Parse.pdb
+C:\GitHub\arv\try_Parse\obj\Debug\net7.0\try_Parse.genruntimeconfig.cache
+C:\GitHub\arv\try_Parse\obj\Debug\net7.0\ref\try_Parse.dll
